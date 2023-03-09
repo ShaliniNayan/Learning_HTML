@@ -23,4 +23,5 @@ hr - Horizontal line (basically used break up between the content).
 big and small -Control the size of text we write the code <big></big> means text between code will big and if <small></small> the text between the code will small.
 sub - SubSrcipt means the text between the code will move little down from original place H<sub>2</sub>O (Used in Chemistry formula or Mathematics generally).
 sup> - SuperScript  means the text between the code will move little up from original place 10<sup>2</sup> (Used in Chemistry formula or Mathematics generally).   
-HTML COMMENT - Opening Tag <!-- ALL THE CODE BETWEEN THIS LINE  OR BELOW IS THIS ARE NOT SEEN IN WEB PAGE.--> Closing tag   
+HTML COMMENT - Opening Tag <!-- ALL THE CODE BETWEEN THIS LINE  OR BELOW IS THIS ARE NOT SEEN IN WEB PAGE.--> Closing tag.
+style and color - We can put color  in html by using <style="color:blue; background-color: red;"> in whcichever part we like to wish.
